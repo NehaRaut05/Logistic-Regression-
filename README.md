@@ -1,4 +1,4 @@
-# Logistic-Regression-
+# Logistic Regression
 
 A retail banking institution is going to float a stock trading facility for their existing customer. Since this kind of facitlity is nothing new , company knows that they will have to incetivise their customers for adopting their offerings. One way to incetiwise is to offer discounts on the commision for trading transactions.
 
